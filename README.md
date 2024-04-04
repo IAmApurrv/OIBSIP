@@ -151,8 +151,8 @@ Upon running the program, you will be prompted to enter your User ID and PIN:
 
 ```
 Welcome to ATM
-Enter User ID: user123
-Enter PIN: 1234
+Enter User ID: apurrv
+Enter PIN: apurrv
 ```
 
 Once logged in successfully, you can choose from the following options:
